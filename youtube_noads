@@ -1,0 +1,1 @@
+setInterval(()=>{var e=document.getElementsByClassName("ytp-ad-skip-button");e.length>0&&e[0].click()},4e3);
